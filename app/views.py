@@ -12,7 +12,7 @@ import pdfkit
 request_tx = []
 #store filename
 files = {}
-#destiantion for upload files
+#destination for upload files
 UPLOAD_FOLDER = "app/static/Uploads"
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 # store  address
